@@ -1,0 +1,10 @@
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\bin\Debug\Pract3-Calculadora.exe.config
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\bin\Debug\Pract3-Calculadora.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\bin\Debug\Pract3-Calculadora.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\obj\Debug\Pract3-Calculadora.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\obj\Debug\Pract3_Calculadora.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\obj\Debug\Pract3_Calculadora.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\obj\Debug\Pract3-Calculadora.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\obj\Debug\Pract3-Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\obj\Debug\Pract3-Calculadora.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract3-Calculadora\Pract3-Calculadora\obj\Debug\Pract3-Calculadora.pdb

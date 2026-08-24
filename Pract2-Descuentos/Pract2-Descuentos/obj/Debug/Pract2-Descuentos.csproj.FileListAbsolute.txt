@@ -1,0 +1,10 @@
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\bin\Debug\Pract2-Descuentos.exe.config
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\bin\Debug\Pract2-Descuentos.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\bin\Debug\Pract2-Descuentos.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2_Descuentos.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2_Descuentos.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract2-Descuentos\Pract2-Descuentos\obj\Debug\Pract2-Descuentos.pdb

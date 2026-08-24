@@ -1,0 +1,10 @@
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\bin\Debug\Pract1-Controlares.exe.config
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\bin\Debug\Pract1-Controlares.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\bin\Debug\Pract1-Controlares.pdb
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\obj\Debug\Pract1-Controlares.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\obj\Debug\Pract1_Controlares.Form1.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\obj\Debug\Pract1_Controlares.Properties.Resources.resources
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\obj\Debug\Pract1-Controlares.csproj.GenerateResource.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\obj\Debug\Pract1-Controlares.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\obj\Debug\Pract1-Controlares.exe
+C:\Users\tomas\OneDrive\Desktop\HPA III\Trabajos\Laboratorios\Pract1-Controlares\Pract1-Controlares\obj\Debug\Pract1-Controlares.pdb
